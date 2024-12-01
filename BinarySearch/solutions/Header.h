@@ -6,7 +6,7 @@
 // if not found look for number is less than -1 then return index  
 
 #include <vector>
-using namespace std;  // Add this for std namespace
+using namespace std;  
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {

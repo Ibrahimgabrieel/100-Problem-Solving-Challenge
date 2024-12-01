@@ -1,0 +1,5 @@
+﻿  BinarySearch.cpp
+C:\Users\Ibrahim Gabriel\source\repos\ProblemSolving\BinarySearch\Header.h(14,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BinarySearch.cpp')
+  
+  BinarySearch.vcxproj -> C:\Users\Ibrahim Gabriel\source\repos\ProblemSolving\BinarySearch\x64\Debug\BinarySearch.exe

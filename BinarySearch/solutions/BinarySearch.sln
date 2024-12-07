@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arranging_Coins", "..\Arran
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Search2DMatrix", "..\Search2DMatrix\Search2DMatrix.vcxproj", "{D5B48138-8B75-4786-8AB8-04B2D02747A5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RotatedSortedArray2", "..\RotatedSortedArray2\RotatedSortedArray2.vcxproj", "{5F8BF63B-8D13-4752-AA53-BD2641C4F78F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{D5B48138-8B75-4786-8AB8-04B2D02747A5}.Release|x64.Build.0 = Release|x64
 		{D5B48138-8B75-4786-8AB8-04B2D02747A5}.Release|x86.ActiveCfg = Release|Win32
 		{D5B48138-8B75-4786-8AB8-04B2D02747A5}.Release|x86.Build.0 = Release|Win32
+		{5F8BF63B-8D13-4752-AA53-BD2641C4F78F}.Debug|x64.ActiveCfg = Debug|x64
+		{5F8BF63B-8D13-4752-AA53-BD2641C4F78F}.Debug|x64.Build.0 = Debug|x64
+		{5F8BF63B-8D13-4752-AA53-BD2641C4F78F}.Debug|x86.ActiveCfg = Debug|Win32
+		{5F8BF63B-8D13-4752-AA53-BD2641C4F78F}.Debug|x86.Build.0 = Debug|Win32
+		{5F8BF63B-8D13-4752-AA53-BD2641C4F78F}.Release|x64.ActiveCfg = Release|x64
+		{5F8BF63B-8D13-4752-AA53-BD2641C4F78F}.Release|x64.Build.0 = Release|x64
+		{5F8BF63B-8D13-4752-AA53-BD2641C4F78F}.Release|x86.ActiveCfg = Release|Win32
+		{5F8BF63B-8D13-4752-AA53-BD2641C4F78F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

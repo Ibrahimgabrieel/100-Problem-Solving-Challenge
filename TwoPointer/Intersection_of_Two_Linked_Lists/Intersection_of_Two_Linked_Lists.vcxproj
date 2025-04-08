@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{086b50a6-df0d-48ed-9d33-9d082821b46e}</ProjectGuid>
-    <RootNamespace>CheckifWordEqualsSummationofTwoWords</RootNamespace>
+    <ProjectGuid>{6e36c9f1-284b-4568-8ca0-0edd23bd3a0d}</ProjectGuid>
+    <RootNamespace>IntersectionofTwoLinkedLists</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Check_if_Word_Equals_Summation_of_Two Words.cpp" />
+    <ClCompile Include="Intersection_of_Two_Linked_Lists.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h" />

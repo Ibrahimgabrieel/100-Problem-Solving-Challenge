@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Check_if_Word_Equals_Summation_of_Two Words.cpp">
+    <ClCompile Include="Intersection_of_Two_Linked_Lists.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Check_if_Word_Equals_Summation_of_Two Words", "Check_if_Word_Equals_Summation_of_Two Words\Check_if_Word_Equals_Summation_of_Two Words.vcxproj", "{086B50A6-DF0D-48ED-9D33-9D082821B46E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Intersection_of_Two_Linked_Lists", "Intersection_of_Two_Linked_Lists\Intersection_of_Two_Linked_Lists.vcxproj", "{6E36C9F1-284B-4568-8CA0-0EDD23BD3A0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{086B50A6-DF0D-48ED-9D33-9D082821B46E}.Release|x64.Build.0 = Release|x64
 		{086B50A6-DF0D-48ED-9D33-9D082821B46E}.Release|x86.ActiveCfg = Release|Win32
 		{086B50A6-DF0D-48ED-9D33-9D082821B46E}.Release|x86.Build.0 = Release|Win32
+		{6E36C9F1-284B-4568-8CA0-0EDD23BD3A0D}.Debug|x64.ActiveCfg = Debug|x64
+		{6E36C9F1-284B-4568-8CA0-0EDD23BD3A0D}.Debug|x64.Build.0 = Debug|x64
+		{6E36C9F1-284B-4568-8CA0-0EDD23BD3A0D}.Debug|x86.ActiveCfg = Debug|Win32
+		{6E36C9F1-284B-4568-8CA0-0EDD23BD3A0D}.Debug|x86.Build.0 = Debug|Win32
+		{6E36C9F1-284B-4568-8CA0-0EDD23BD3A0D}.Release|x64.ActiveCfg = Release|x64
+		{6E36C9F1-284B-4568-8CA0-0EDD23BD3A0D}.Release|x64.Build.0 = Release|x64
+		{6E36C9F1-284B-4568-8CA0-0EDD23BD3A0D}.Release|x86.ActiveCfg = Release|Win32
+		{6E36C9F1-284B-4568-8CA0-0EDD23BD3A0D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
